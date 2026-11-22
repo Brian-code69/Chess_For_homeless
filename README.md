@@ -1,4 +1,4 @@
-# Ajedrez contra la máquina (chess_for_homeless)
+# Ajedrez contra la máquina (chess_for_homeless).
 
 > **Alumno:Brian_Burgos** Ajedrez contra la maquina con generacion de movimientos legales y busqueda Minimax con poda alfa-beta, inspirado em Lichess.
 > Proyecto n.º 29 del catálogo · Sitio de referencia: Lichess · [PRD](docs/PRD.md) · URL publicada: [lichess.org]
