@@ -1,8 +1,8 @@
-# Mi producto
+# Ajedrez contra la máquina (chess_for_homeless)
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
-
+> **Alumno:Brian_Burgos** Ajedrez contra la maquina con generacion de movimientos legales y busqueda Minimax con poda alfa-beta, inspirado em Lichess.
+> Proyecto n.º 29 del catálogo · Sitio de referencia: Lichess · [PRD](docs/PRD.md) · URL publicada: [lichess.org]
+> Curso completado Programacion basica Platzi: https://platzi.com/p/brianburgos1208/curso/13100-course/diploma/detalle/
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
 **https://github.com/Jeisonpernia/lenguaje-programacion**
