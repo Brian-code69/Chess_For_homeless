@@ -1,4 +1,4 @@
-# Ajedrez contra la máquina (chess_for_homeless).
+# Ajedrez contra la máquina (chess_for_homeless)
 
 > **Alumno:Brian_Burgos** Ajedrez contra la maquina con generacion de movimientos legales y busqueda Minimax con poda alfa-beta, inspirado em Lichess.
 > Proyecto n.º 29 del catálogo · Sitio de referencia: Lichess · [PRD](docs/PRD.md) · URL publicada: [lichess.org]
@@ -6,6 +6,7 @@
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
 **https://github.com/Jeisonpernia/lenguaje-programacion**
+Cada Pull Request hacia `main` ejecuta automáticamente los checks de GitHub Actions (`lint`, `typecheck`, pruebas y `build` mediante `npm run check`) para garantizar que el código se integre siempre en verde.
 
 ---
 
